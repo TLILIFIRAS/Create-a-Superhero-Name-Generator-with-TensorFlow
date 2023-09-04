@@ -21,3 +21,5 @@ In this guided project, we have created a powerful neural network and trained it
    git clone https://github.com/TLILIFIRAS/Create-a-Superhero-Name-Generator-with-TensorFlow.git
    cd Create-a-Superhero-Name-Generator-with-TensorFlow '''
    
+2. **Generating Superhero Names:**
+   Explore notebook.ipynb to generate superhero names with the trained model.
